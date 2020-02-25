@@ -1,4 +1,4 @@
-# [facebook.github.io/react-native/](https://facebook.github.io/react-native/) &middot; [![Circle CI Status](https://circleci.com/gh/facebook/react-native-website.svg?style=shield)](https://circleci.com/gh/facebook/react-native-website) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+# [facebook.github.io/reactJS/](https://facebook.github.io/react-native/) &middot; [![Circle CI Status](https://circleci.com/gh/facebook/react-native-website.svg?style=shield)](https://circleci.com/gh/facebook/react-native-website) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
 This repo contains the website configuration and documentation powering the [ReactJS website](https://facebook.github.io/react-native/).
 
